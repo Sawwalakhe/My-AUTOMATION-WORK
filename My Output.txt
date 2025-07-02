@@ -1,0 +1,280 @@
+KNX 
+    -name:Knx Current 
+    state_address:0/0/1
+    type:current 
+    state_class:measurement 
+KNX 
+    -name:Knx Current 
+    state_address:5
+    type:1byte_unsigned 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:5.001
+    type:percent 
+    state_class:% 
+KNX 
+    -name:Knx Current 
+    state_address:5.003
+    type:angle 
+    state_class:° 
+KNX 
+    -name:Knx Current 
+    state_address:5.004
+    type:percentU8 
+    state_class:% 
+KNX 
+    -name:Knx Current 
+    state_address:5.005
+    type:decimal_factor 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:5.006
+    type:tariff 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:5.01
+    type:pulse 
+    state_class:counter pulses 
+KNX 
+    -name:Knx Current 
+    state_address:6
+    type:1byte_signed 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:6.001
+    type:percentV8 
+    state_class:% 
+KNX 
+    -name:Knx Current 
+    state_address:6.01
+    type:counter_pulses 
+    state_class:counter pulses 
+KNX 
+    -name:Knx Current 
+    state_address:7
+    type:2byte_unsigned 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:7.001
+    type:pulse_2byte 
+    state_class:pulses 
+KNX 
+    -name:Knx Current 
+    state_address:7.002
+    type:time_period_msec 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:7.003
+    type:time_period_10msec 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:7.004
+    type:time_period_100msec 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:7.005
+    type:time_period_sec 
+    state_class:s 
+KNX 
+    -name:Knx Current 
+    state_address:7.006
+    type:time_period_min 
+    state_class:min 
+KNX 
+    -name:Knx Current 
+    state_address:7.007
+    type:time_period_hrs 
+    state_class:h 
+KNX 
+    -name:Knx Current 
+    state_address:7.011
+    type:length_mm 
+    state_class:mm 
+KNX 
+    -name:Knx Current 
+    state_address:7.012
+    type:current 
+    state_class:mA 
+KNX 
+    -name:Knx Current 
+    state_address:7.013
+    type:brightness 
+    state_class:lx 
+KNX 
+    -name:Knx Current 
+    state_address:7.6
+    type:color_temperature 
+    state_class:K 
+KNX 
+    -name:Knx Current 
+    state_address:8
+    type:2byte_signed 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:8.001
+    type:pulse_2byte_signed 
+    state_class:pulses 
+KNX 
+    -name:Knx Current 
+    state_address:8.002
+    type:delta_time_ms 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:8.003
+    type:delta_time_10ms 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:8.004
+    type:delta_time_100ms 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:8.005
+    type:delta_time_sec 
+    state_class:s 
+KNX 
+    -name:Knx Current 
+    state_address:8.006
+    type:delta_time_min 
+    state_class:min 
+KNX 
+    -name:Knx Current 
+    state_address:8.007
+    type:delta_time_hrs 
+    state_class:h 
+KNX 
+    -name:Knx Current 
+    state_address:8.01
+    type:percentV16 
+    state_class:% 
+KNX 
+    -name:Knx Current 
+    state_address:8.011
+    type:rotation_angle 
+    state_class:° 
+KNX 
+    -name:Knx Current 
+    state_address:8.012
+    type:length_m 
+    state_class:m 
+KNX 
+    -name:Knx Current 
+    state_address:9
+    type:2byte_float 
+    state_class:nan 
+KNX 
+    -name:Knx Current 
+    state_address:9.001
+    type:temperature 
+    state_class:°C 
+KNX 
+    -name:Knx Current 
+    state_address:9.002
+    type:temperature_difference_2byte 
+    state_class:K 
+KNX 
+    -name:Knx Current 
+    state_address:9.003
+    type:temperature_a 
+    state_class:K/h 
+KNX 
+    -name:Knx Current 
+    state_address:9.004
+    type:illuminance 
+    state_class:lx 
+KNX 
+    -name:Knx Current 
+    state_address:9.005
+    type:wind_speed_ms 
+    state_class:m/s 
+KNX 
+    -name:Knx Current 
+    state_address:9.006
+    type:pressure_2byte 
+    state_class:Pa 
+KNX 
+    -name:Knx Current 
+    state_address:9.007
+    type:humidity 
+    state_class:% 
+KNX 
+    -name:Knx Current 
+    state_address:9.008
+    type:ppm 
+    state_class:ppm 
+KNX 
+    -name:Knx Current 
+    state_address:9.009
+    type:air_flow 
+    state_class:m³/h 
+KNX 
+    -name:Knx Current 
+    state_address:9.01
+    type:time_1 
+    state_class:s 
+KNX 
+    -name:Knx Current 
+    state_address:9.011
+    type:time_2 
+    state_class:ms 
+KNX 
+    -name:Knx Current 
+    state_address:9.02
+    type:voltage 
+    state_class:mV 
+KNX 
+    -name:Knx Current 
+    state_address:9.021
+    type:curr 
+    state_class:mA 
+KNX 
+    -name:Knx Current 
+    state_address:9.022
+    type:power_density 
+    state_class:W/m² 
+KNX 
+    -name:Knx Current 
+    state_address:9.023
+    type:kelvin_per_percent 
+    state_class:K/% 
+KNX 
+    -name:Knx Current 
+    state_address:9.024
+    type:power_2byte 
+    state_class:kW 
+KNX 
+    -name:Knx Current 
+    state_address:9.025
+    type:volume_flow 
+    state_class:l/h 
+KNX 
+    -name:Knx Current 
+    state_address:9.026
+    type:rain_amount 
+    state_class:l/m² 
+KNX 
+    -name:Knx Current 
+    state_address:9.027
+    type:temperature_f 
+    state_class:°F 
+KNX 
+    -name:Knx Current 
+    state_address:9.028
+    type:wind_speed_kmh 
+    state_class:km/h 
+KNX 
+    -name:Knx Current 
+    state_address:9.029
+    type:absolute_humidity 
+    state_class:g/m³ 
